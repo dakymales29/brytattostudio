@@ -1,5 +1,40 @@
-# Vue 3 + Vite
+# BryTattooStudio  
+Aplicación web full stack para la gestión de un estudio de tatuajes.  
+Incluye tienda online y un panel administrativo con CRUD completo.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+---
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Tecnologías utilizadas
+
+### **Frontend**
+- Vue.js 
+- Vite
+- TailwindCSS
+
+### **Backend**
+- Node.js
+- Express
+- PostgreSQL
+---
+
+## 📌 Funcionalidades principales
+
+### 🌐 **Parte pública (web)**
+- Información del artista.
+- Galería de tatuajes.
+- Vista de tienda online.
+- Detalles de cada producto.
+- Diseño moderno y responsivo.
+- Login exclusivo para el artista.
+
+### 🔐 **Panel de administración**
+- CRUD de productos (crear, editar, borrar).
+- CRUD de tatuadores o servicios.
+- Gestión de imágenes.
+- Control total desde la misma web.
+
+### 💳 **Próximamente**
+- Integración con **Payphone** para pagos en línea.  
+*(Falta implementar, pero ya está planificado.)*
+
+
